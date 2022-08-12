@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'color-clock!'",
+    "start": "serve"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mwiks-dev/React-npm-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwiks-dev/React-npm-Lab/issues"
+  },
+  "homepage": "https://github.com/mwiks-dev/React-npm-Lab#readme",
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "serve": "^14.0.1"
+  }
+}
